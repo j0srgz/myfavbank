@@ -1,5 +1,5 @@
 # myfavbank
-Simulación de un sistema de banco realizada en Node.js y Express desarrollada por José Rojas
+Simulación de un sistema de banco desarrollada en Node.js y Express por José Rojas
 
 Para el test de la aplicación se establecieron por defecto dos cuentas en la base de datos.
 Para registrarse en la aplicación, ingrese alguna de las cuentas o cree una nueva directamente en la base de datos.
