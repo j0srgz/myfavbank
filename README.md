@@ -6,16 +6,8 @@ Para registrarse en la aplicación, ingrese alguna de las cuentas o cree una nue
 
 PRIMERA CUENTA:
 
-Nº de Cuenta: 102123456
-Nombre del propietario: Jack
-Apellido del propietario: McCollum
-Cedula del propietario: 123456
-Saldo: 2000.50
+Nº de Cuenta: 102123456 // Propietario: Jack McCollum
 
 SEGUNDA CUENTA:
 
-Nº de Cuenta: 102456123
-Nombre del propietario: Mike
-Apellido del propietario: Harper
-Cedula del propietario: 456123
-Saldo: 1000.75
+Nº de Cuenta: 102456123 // Propietario: Mike Harper
