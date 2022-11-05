@@ -1,0 +1,31 @@
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <a class="navbar-brand" href="/">MyFavBank</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNav">
+    <ul class="navbar-nav">
+      {{#if user}}
+      <li class="nav-item active">
+        <a class="nav-link" href="/main">Inicio<span class="sr-only">(current)</span></a>
+      </li>
+      {{/if}}
+      {{#if user}}
+      <li class="nav-item">
+        <a class="nav-link" href="/history">Historial de Operaciones</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="/logout">Cerrar Sesión</a>
+      </li>
+      {{/if}}
+      {{#unless user}}
+      <li class="nav-item">
+        <a class="nav-link" href="/signup">Registrarse</a>
+      </li>
+      {{/unless}}
+      <li class="nav-item">
+        <a class="nav-link disabled" href="#">FAQ</a>
+      </li>
+    </ul>
+  </div>
+</nav>
