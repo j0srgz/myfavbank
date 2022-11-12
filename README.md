@@ -11,3 +11,18 @@ Nº de Cuenta: 102123456 // Propietario: Jack McCollum
 SEGUNDA CUENTA:
 
 Nº de Cuenta: 102456123 // Propietario: Mike Harper
+
+###############################################################################################################
+
+Web application simulation developed on Node.js and Express by José Rojas
+
+For testing, two accounts were established on the database.
+To signup in this application, enter any account or create a new one directly on the database.
+
+FIRST ACCOUNT:
+
+Account Number: 102123456 // Proprietary: Jack McCollum
+
+SECOND ACCOUNT:
+
+Account Number: 102456123 // Proprietary: Mike Harper
